@@ -1,0 +1,15 @@
+ag2014.r filter=lfs diff=lfs merge=lfs -text
+qxy_col2003.ods filter=lfs diff=lfs merge=lfs -text
+qxy_col2003.csv filter=lfs diff=lfs merge=lfs -text
+qx_male.csv filter=lfs diff=lfs merge=lfs -text
+qx_female.csv filter=lfs diff=lfs merge=lfs -text
+overlevingstafels.xlsx filter=lfs diff=lfs merge=lfs -text
+hFreq.r filter=lfs diff=lfs merge=lfs -text
+col2003.r filter=lfs diff=lfs merge=lfs -text
+cf.r filter=lfs diff=lfs merge=lfs -text
+QxTable.r filter=lfs diff=lfs merge=lfs -text
+Invoerbestand1.csv filter=lfs diff=lfs merge=lfs -text
+Invoerbestand.csv filter=lfs diff=lfs merge=lfs -text
+Hxy_tabel.csv filter=lfs diff=lfs merge=lfs -text
+col2003.csv filter=lfs diff=lfs merge=lfs -text
+.gitattributes filter=lfs diff=lfs merge=lfs -text
