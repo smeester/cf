@@ -1,3 +1,20 @@
 version https://git-lfs.github.com/spec/v1
 oid sha256:5ffc13268cbd0b68c7bac366b664f1056754877e85aa2c10caf7e4fbfef9032c
 size 741
+ag2014.r filter=lfs diff=lfs merge=lfs -text
+qxy_col2003.ods filter=lfs diff=lfs merge=lfs -text
+qxy_col2003.csv filter=lfs diff=lfs merge=lfs -text
+qx_male.csv filter=lfs diff=lfs merge=lfs -text
+qx_female.csv filter=lfs diff=lfs merge=lfs -text
+overlevingstafels.xlsx filter=lfs diff=lfs merge=lfs -text
+hFreq.r filter=lfs diff=lfs merge=lfs -text
+col2003.r filter=lfs diff=lfs merge=lfs -text
+cf.r filter=lfs diff=lfs merge=lfs -text
+QxTable.r filter=lfs diff=lfs merge=lfs -text
+Invoerbestand1.csv filter=lfs diff=lfs merge=lfs -text
+Invoerbestand.csv filter=lfs diff=lfs merge=lfs -text
+Hxy_tabel.csv filter=lfs diff=lfs merge=lfs -text
+col2003.csv filter=lfs diff=lfs merge=lfs -text
+.gitattributes filter=lfs diff=lfs merge=lfs -text
+.gitignore filter=lfs diff=lfs merge=lfs -text
+
